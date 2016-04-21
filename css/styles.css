@@ -86,42 +86,17 @@ body {
 	font-size: 18px;
 }
 
-/*Блок для портфолио*/
-#portfolio {
-	margin-top: 80px;
+/*Слайдер*/
+#carousel {
+		margin-top: 80px;
 	width: 940px;
 	height: 600px;
-}
-#small_pics {
-	margin-right: 15px;
-}
-.small_picture {
-	width: 220px;
-	height: 185px;
-	float: left;
-	margin-bottom: 23px;
-	box-shadow: 0px 1px 3px #3b3838;
+	box-shadow: 1px 4px 10px #3b3838;
 	-webkit-box-shadow: 1px 4px 10px #3b3838;
 	-o-box-shadow: 1px 4px 10px #3b3838;
 	-moz-box-shadow: 1px 4px 10px #3b3838;
 	-ms-box-shadow: 1px 4px 10px #3b3838;
 	-khtml-box-shadow: 1px 4px 10px #3b3838;
-}
-#big_pic {
-	box-shadow: 0px 1px 3px #3b3838;
-	-webkit-box-shadow: 1px 4px 10px #3b3838;
-	-o-box-shadow: 1px 4px 10px #3b3838;
-	-moz-box-shadow: 1px 4px 10px #3b3838;
-	-ms-box-shadow: 1px 4px 10px #3b3838;
-	-khtml-box-shadow: 1px 4px 10px #3b3838;
-}
-#sm1, #sm2, #sm3 {
-	margin-right: 15px;
-}
-#small_pics, #big_pic {
-	float: left;
-	width: 460px;
-	height: 600px;
 }
 
 /*Последний блок с формой и инфой об авторе*/
