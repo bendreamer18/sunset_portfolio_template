@@ -29,7 +29,7 @@ body {
 	width: 450px;
 	float: left;
 	color: #444343;
-	font-size: 21px;
+	font-size: 19px;
 }
 
 /*Главная картинка*/
@@ -55,11 +55,11 @@ body {
 	height: 140px;
 	width: 940px;
 	text-align: center;
-	font-size: 25px;
+	font-size: 23px;
 	color: #444343;
 }
 #b_things {
-	font-size: 45px;
+	font-size: 43px;
 }
 
 /*Колонки с контентом*/
@@ -75,20 +75,20 @@ body {
 .b_head a {
 	margin-left: 10px;
 	color: #444343;
-	font-size: 25px;
+	font-size: 23px;
 }
-.b_head:hover {
-	text-decoration: underline;
+.b_head:hover a {
+	text-decoration: none;
 }
 .b_text {
 	margin-top: 20px;
 	color: #595656;
-	font-size: 18px;
+	font-size: 16px;
 }
 
 /*Слайдер*/
 #carousel {
-		margin-top: 80px;
+	margin-top: 120px;
 	width: 940px;
 	height: 600px;
 	box-shadow: 1px 4px 10px #3b3838;
@@ -138,7 +138,7 @@ body {
 	color: #636060;
 }
 #john, #numbers {
-	font-size: 18px;
+	font-size: 16px;
 }
 #numbers a {
 	font-weight: bold;
@@ -154,7 +154,7 @@ body {
 	margin-bottom: 20px;
 }
 .c_line, textarea {
-	font-size: 18px;
+	font-size: 16px;
 	border: 1px solid #f0f0f0;
 	box-shadow: 1px 4px 3px #DDD;
 	-webkit-box-shadow: 1px 4px 10px #DDD;
@@ -170,7 +170,7 @@ body {
 	-khtml-border-radius: 3px;
 }
 textarea {
-	font-size: 18px;
+	font-size: 16px;
 	color: #7f7f7f;
 	resize: none;
 }
@@ -186,20 +186,20 @@ textarea {
 	width: 125px;
 	margin-top: 25px;
 	color: #7f7f7f;
-	font-size: 18px;
+	font-size: 16px;
 }
 /*Стили для placeholder */
 ::-webkit-input-placeholder {color:#7f7f7f;
-	font-size: 15px;
+	font-size: 13px;
 }
 ::-moz-placeholder          {color:#7f7f7f;
-	font-size: 15px;
+	font-size: 13px;
 	}/* Firefox 19+ */
 	:-moz-placeholder           {color:#7f7f7f;
-		font-size: 15px;
+		font-size: 13px;
 		}/* Firefox 18- */
 		:-ms-input-placeholder      {color:#7f7f7f;
-			font-size: 15px;
+			font-size: 13px;
 		}
 	
 	/*При фокусе placeholder в форме исчезает*/
@@ -212,7 +212,7 @@ textarea {
 			margin-top: 15px;
 			height: 40px;
 			width: 940px;
-			font-size: 15px;
+			font-size: 13px;
 			color: #5d5c5c;
 		}
 
