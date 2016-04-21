@@ -10,7 +10,6 @@
 	<div id="page_align">
 		<div id="header">
 			<div id="author"><br><i>John R. Doe / Designer & Developer</i></div>
-			<div id="social"><br><br></div>
 		</div>
 		<div id="photo">
 			<div id="border"></div>
