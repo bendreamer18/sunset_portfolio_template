@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="windows-1251">
+	<meta charset="utf-8">
 	<title>Sunset site</title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" href="css/font-awesome.css">
 </head>
 <body>
 	<div id="page_align">
@@ -17,15 +18,24 @@
 			<div id="content">
 				<div id="cont_head">~ Welcome to my portfolio ~<br><span id="b_things">I make beautiful things happen</span></div>
 				<div id="box1">
-					<div class="b_head"><img src="images/icon1.png"><a href="#">A little about me...</a></div>
+					<div class="b_head"><span>
+						   <i class="fa fa-user fa-lg" aria-hidden="true"></i>
+
+					</span><a href="#">A little about me...</a></div>
 					<div class="b_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse laudantium minus iste quibusdam reiciendis architecto inventore, quae qui exercitationem expedita assumenda voluptate perferendis eaque porro dicta. Doloremque vero recusandae sed...</div>
 				</div>
 				<div id="box2">
-					<div class="b_head"><img src="images/icon2.png"><a href="#">I'm really good at...</a></div>
+					<div class="b_head"><span>
+						<i class="fa fa-comment fa-lg" aria-hidden="true"></i>
+
+					</span><a href="#">I'm really good at...</a></div>
 					<div class="b_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse laudantium minus iste quibusdam reiciendis architecto inventore, quae qui exercitationem expedita assumenda voluptate perferendis eaque porro dicta. Doloremque vero recusandae sed...</div>
 				</div>
 				<div id="box3">
-					<div class="b_head"><img src="images/icon3.png"><a href="#">Services I provide...</a></div>
+					<div class="b_head"><span>
+						<i class="fa fa-cog fa-lg" aria-hidden="true"></i>
+
+					</span><a href="#">Services I provide...</a></div>
 					<div class="b_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse laudantium minus iste quibusdam reiciendis architecto inventore, quae qui exercitationem expedita assumenda voluptate perferendis eaque porro dicta. Doloremque vero recusandae sed...</div>
 				</div>
 			</div>
@@ -60,7 +70,7 @@
 					</div>
 				</div>
 			</div>
-			<div id="rights">Copyright © 2015 John Doe. All rights reserved.</div>
+			<div id="rights">Copyright В© 2015 John Doe. All rights reserved.</div>
 		</div>
 	</body>
 	</html>

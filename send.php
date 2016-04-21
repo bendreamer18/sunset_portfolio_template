@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="windows-1251">
+	<meta charset="utf-8">
 	<title>Sunset site</title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
@@ -15,7 +15,7 @@
 		$name = strip_tags(trim($_POST['name'])) ;
 
 		?>
-		<div id="default_text"><b><?php echo $name; ?></b>, спасибо - Ваше сообщение принято. Я отвечу Вам в ближайшее время.<br><br><br><a href="index.php" target="_self">~ Вернуться на сайт ~</a></div>
+		<div id="default_text"><b><?php echo $name; ?></b>, thank you for your message, I'll answer you as soon as possible.<br><br><br><a href="index.php" target="_self">~ Go back to the Home Page ~</a></div>
 		<div id="photo">
 			<div id="border"></div>
 			<img src="images/sun.png"></div>

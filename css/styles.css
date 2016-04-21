@@ -70,12 +70,8 @@ body {
 #box3 {
 	margin-right: 0px;
 }
-.b_head img {
-	margin-right: 10px;
-	height: 25px;
-	float: left;
-}
 .b_head a {
+	margin-left: 10px;
 	color: #444343;
 	font-size: 25px;
 }
@@ -84,8 +80,9 @@ body {
 }
 .b_text {
 	margin-top: 20px;
-	color: #595656;
+	color: #6e4a0c;
 	font-size: 18px;
+
 }
 #portfolio {
 	margin-top: 80px;
